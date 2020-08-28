@@ -1,5 +1,3 @@
-  ![](images.png)
-
 
 ### Hey I'm Anup A.Ingale :v:
 
