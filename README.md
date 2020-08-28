@@ -8,7 +8,7 @@ to Enhance my growth in latest tech world :seat: .
 
 ### My Tech Bucket :innocent:
 
-Languages : Python, JavaScript
+Languages : Python , Javascript , C , C ++
 
 Backend  : Python ,Django, Flask
 
