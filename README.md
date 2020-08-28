@@ -8,16 +8,16 @@ to Enhance my growth in latest tech world :seat: .
 
 ### My Tech Bucket :innocent:
 
-```Languages: Python, JavaScript```
+Languages: Python, JavaScript
 
-```Backend: Python ,Django, Flask```
+Backend: Python ,Django, Flask
 
-```Frontend: HTML5, CSS3.```
+Frontend: HTML5, CSS3
 
-```API: Django REST Framework```
+API: Django REST Framework
 
-```Databases: MySQL, PostgreSQL```
+Databases: MySQL, PostgreSQL
 
-```Experimenting: Django, Flask```
+Experimenting: Django, Flask
 
-```Tools:  Git, Github```
+Tools:  Git, Github
