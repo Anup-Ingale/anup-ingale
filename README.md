@@ -24,5 +24,3 @@ Experimenting : Django, Flask
 Tools :  Git, Github
 
 
-| ![1.1](http://i.imgur.com/tXSoThF.png )  ![2.1](http://i.imgur.com/P3YfQoD.png ) ![3.1](http://i.imgur.com/yCsTjba.png ) |
-
