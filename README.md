@@ -1,5 +1,5 @@
 
-<a target="_blank" href="https://shunjid.github.io"><img width="380" align="right" src="PRJPKF.jpg"></a>
+<a target="_blank" href="https://shunjid.github.io"><img width="380" align="right" src=""></a>
 # Anup Ingale
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:anuingale34@gmail.com)
