@@ -18,7 +18,7 @@ to Enhance my growth in latest tech world :seat: .
 
 Languages : Python , Javascript , C , C ++
 
-Backend  : Python ,Django, Flask
+Backend  : Python ,Django
 
 Frontend : HTML5, CSS3
 
@@ -28,6 +28,6 @@ Databases : MySQL, PostgreSQL
 
 Experimenting : Django, Flask
 
-Tools :  Git, Github
+Tools : Github
 
 
