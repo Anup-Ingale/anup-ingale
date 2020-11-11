@@ -9,8 +9,8 @@
 
 ### Hey I'm Anup A.Ingale :v:
 
-I'm 24 years old :smiley:, I'm a Software Engineer at Algomus inc . I've profound knowledge in Python and Django Framework,HTML,CSS .
-Currently , I'm working as an Jr.Python Developer at Algomus inc . I'm interested in doing research on text and image related problems.
+I'm 24 years old :smiley:, I'm a Software Engineer at Amdocs . I've profound knowledge in Python and Django Framework,HTML,CSS .
+Currently , I'm working as an Jr.Python Developer at Amdocs. I'm interested in doing research on text and image related problems.
 I love to work with new technologies and playing with Data and Web Developments Frameworks. Continuosly Researching the new Tech stuff 
 to Enhance my growth in latest tech world :seat: .
 
