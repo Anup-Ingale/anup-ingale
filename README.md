@@ -22,12 +22,12 @@ Backend  : Python ,Django
 
 Frontend : HTML5, CSS3
 
-API : Django REST Framework
+API : Django REST Framework , FAST API
 
-Databases : MySQL, PostgreSQL
+Databases : MySQL, PostgreSQL ,
 
 Experimenting : Django, Flask
 
-Tools : Github
+Tools : Github,GitLab 
 
 
