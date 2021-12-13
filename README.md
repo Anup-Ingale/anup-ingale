@@ -1,33 +1,41 @@
+<h1 align="center">Hi 👋, I'm Anup Ashokrao Ingale</h1>
 
-<a target="_blank" href="https://shunjid.github.io"><img width="380" align="right" src=""></a>
-# Anup Ingale
+<h5 align="center">I am Anup Ingale, Software Engineer. I have highly rich experience in web site development and building and customisation by using most of the famous language and the framework Python and Django. I'd really describe myself as a person with a versatile skill-set, and from the last 2.8 year working as a Python & Django Developer with a lot of integrity and a willingness to go the extra mile to explore more .</h5>
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:anuingale34@gmail.com)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/anup-ingale-172657132/)
-[![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/active_coder/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anup-ingale&label=Profile%20views&color=0e75b6&style=flat" alt="anup-ingale" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anup-ingale" alt="anup-ingale" /></a> </p>
 
-### Hey I'm Anup A.Ingale :v:
+- 🔭 I’m currently working on [Portfolio Blogging , Real Estate](https://www.anupingale.com , http://65.1.151.181/)
 
-I'm 24 years old :smiley:, I'm a Software Engineer. I've profound knowledge in Python and Django Framework,HTML,CSS .
-Currently , I'm working as an Jr.Python Developer at Diquery Digitals. I'm interested in doing research on text and image related problems.
-I love to work with new technologies and playing with Data and Web Developments Frameworks. Continuosly Researching the new Tech stuff 
-to Enhance my growth in latest tech world :seat: .
+- 🌱 I’m currently learning **React Js , Django Advanced**
 
-### My Tech Bucket :innocent:
+- 👨‍💻 All of my projects are available at [https://www.anupingale.com](https://www.anupingale.com)
 
-Languages : Python , Javascript , C , C ++
+- 📝 I regularly write articles on [https://www.anupingale.com/blog/](https://www.anupingale.com/blog/)
 
-Backend  : Python ,Django
+- 💬 Ask me about **Python , Django , HTML , CSS , AWS**
 
-Frontend : HTML5, CSS3
+- 📫 How to reach me **anuingale34@gmail.com**
 
-API : Django REST Framework , FAST API
+- ⚡ Fun fact **I am versatile in learning want to Explore Tech in deep.**
 
-Databases : MySQL, PostgreSQL ,
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Experimenting : Django, Flask
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anup ingale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anup ingale" height="30" width="40" /></a>
+<a href="https://fb.com/anup ingale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anup ingale" height="30" width="40" /></a>
+<a href="/https://anupingale.com/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anupingale.com/rss/" height="30" width="40" /></a>
+</p>
 
-Tools : Github,GitLab 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anup-ingale&show_icons=true&locale=en&layout=compact" alt="anup-ingale" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anup-ingale&show_icons=true&locale=en" alt="anup-ingale" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anup-ingale&" alt="anup-ingale" /></p>
