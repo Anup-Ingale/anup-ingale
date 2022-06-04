@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://www.anupingale.com/blog/](https://www.anupingale.com/blog/)
 
-- 💬 Ask me about **Python , Django , HTML , CSS , AWS**
+- 💬 Ask me about **Python , Django , HTML , CSS , AWS , GCP , Docker , NGINX , GUNICORN**
 
 - 📫 How to reach me **anuingale34@gmail.com**
 
