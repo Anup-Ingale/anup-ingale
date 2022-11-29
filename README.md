@@ -6,13 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anup-ingale" alt="anup-ingale" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Blogging , Real Estate](https://www.anupingale.com , http://65.1.151.181/)
+- 🔭 I’m currently working on [Portfolio Blogging , Real Estate]
 
 - 🌱 I’m currently learning **React Js , Django Advanced**
-
-- 👨‍💻 All of my projects are available at [https://www.anupingale.com](https://www.anupingale.com)
-
-- 📝 I regularly write articles on [https://www.anupingale.com/blog/](https://www.anupingale.com/blog/)
 
 - 💬 Ask me about **Python , Django , HTML , CSS , AWS , GCP , Docker , NGINX , GUNICORN**
 
