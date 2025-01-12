@@ -45,8 +45,6 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anup-ingale&show_icons=true&locale=en&layout=compact" alt="anup-ingale" /></p>
-  
-  
 <br>
 
 
