@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anup Ashokrao Ingale</h1>
 
-<h5 align="center">I am Anup Ingale, Software Engineer. I have highly rich experience in web site development and building and customisation by using most of the famous language and the framework Python and Django. I'd really describe myself as a person with a versatile skill-set, and from the last 3.5 year working as a Python & Django Developer with a lot of integrity and a willingness to go the extra mile to explore more .</h5>
+<h5 align="center"><h1 style="color:blue;">👨‍💻 Anup Ingale — Software Engineer</h1>  
+<p>Welcome to my world of <strong>web development</strong> and <strong>customization</strong>, where innovation meets expertise! 🚀</p>  
+
+<p>I bring to the table a <span style="color:green; font-weight:bold;">highly rich experience</span> in crafting and customizing websites using some of the most renowned languages and frameworks, with a special focus on <span style="color:orange;">Python</span> 🐍 and <span style="color:purple;">Django</span>. 🎯</p>  
+
+<p>For the past <strong>5.5 years</strong>, I’ve been working passionately as a <span style="color:blue;">Python & Django Developer</span>. My journey is defined by integrity, a versatile skill set, and a relentless drive to <span style="font-style:italic;">explore more</span> 🌟.</p>  
+
+<p>If you’re looking for a developer who goes the extra mile 💪, I’m the one to collaborate with!</p>  
+
+<p style="color:gray; font-size:small;">✨ Let’s create something amazing together! ✨</p>
+</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anup-ingale&label=Profile%20views&color=0e75b6&style=flat" alt="anup-ingale" /> </p>
 
